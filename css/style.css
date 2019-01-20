@@ -9,11 +9,11 @@ body {
 }
 
 .nabvar-default {
-	background: url(https://dl.dropboxusercontent.com/u/848013/codepen/tribute-page/half_moon.png) no-repeat center 0;
+	background: url(https://raw.githubusercontent.com/yamitrvg12/Build-a-Tribute-Page/master/images/half_moon.png) no-repeat center 0;
 }
 
 .navbar-icon {
-	background: url(https://dl.dropboxusercontent.com/u/848013/codepen/tribute-page/nabvar_icon.png) no-repeat center 0;
+	background: url(https://raw.githubusercontent.com/yamitrvg12/Build-a-Tribute-Page/master/images/nabvar_icon.png) no-repeat center 0;
 	width: 60px;
 	height: 60px;
 	position: absolute;
@@ -86,11 +86,11 @@ body {
 }
 
 .header-image.cover {
-	background-image: url(https://www.dropbox.com/s/u7pnbaln6asq2mp/banner.jpg);
+	background-image: url(https://raw.githubusercontent.com/yamitrvg12/Build-a-Tribute-Page/master/images/banner.jpg);
 }
 
 .video-image.cover {
-	background-image: url(https://dl.dropboxusercontent.com/u/848013/codepen/tribute-page/video-background.jpg);
+	background-image: url(https://raw.githubusercontent.com/yamitrvg12/Build-a-Tribute-Page/master/images/video-background.jpg);
 }
 
 .header-image.loaded,
@@ -198,7 +198,7 @@ p {
 }
 
 .footer {
-	background: url(https://dl.dropboxusercontent.com/u/848013/codepen/tribute-page/footer.gif) repeat-x 0 0;
+	background: url(https://raw.githubusercontent.com/yamitrvg12/Build-a-Tribute-Page/master/images/footer.gif) repeat-x 0 0;
 	text-align: center;
 	padding-top: 65px;
 	padding-bottom: 50px;
