@@ -188,6 +188,11 @@ p {
 	margin-bottom: 30px;
 }
 
+.avatar-caption {
+	font-size: 12px;
+	margin-top: 20px;
+}
+
 .wronful_dead {
 	color: #fff;
 	font-size: 15px;
@@ -235,6 +240,14 @@ p {
 
 .navbar-collapse {
 	box-shadow: none;
+}
+
+.avatar-image {
+	max-width: 100%;
+    display: block;
+    height: auto;
+    padding: 0 15px;
+    margin: 0 auto;
 }
 
 /* Extra small devices Phones (<768px) */
